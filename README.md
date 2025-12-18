@@ -94,10 +94,6 @@ Default:
 - AF = 0 → fan OFF
 - AF > 0 → PWM **min 150** (mulai muter) sampai PWM **max 250** (di 7 m/s)
 
-### Airflow “virtual”
-Nilai airflow di MON:
-- Berasal dari `setAirflow` (user)
-- Bergerak acak **±5%** dengan interval update acak ~250–1200 ms
 
 ---
 
